@@ -12,8 +12,9 @@ Coding challenge: Create a small Android app that takes location data from a ser
 
 
 # Some starting point for discussion
-- Consider 
+- What makes your solution an efficient implementation? 
 - What and how would you test your code?
-- 
+- How would you handle a change of the data source, e.g. a different data format? 
+
 # Delivery
 Fork this repository and make your solution publicly available. 
