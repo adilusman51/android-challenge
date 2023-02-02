@@ -47,7 +47,6 @@ class MainActivity : ComponentActivity() {
                     loadingLocation = viewModel.locationState.loading,
                     errorLocation = viewModel.locationState.error,
                     onRetryLocation = {
-                        Log.d("MainActivity", "onRetryLocation")
                         showLocationPermissions()
                     }
                 )
