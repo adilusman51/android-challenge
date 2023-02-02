@@ -1,4 +1,4 @@
-package com.forloop.androidchallenge.ui.theme
+package com.forloop.androidchallenge.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

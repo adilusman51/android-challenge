@@ -1,4 +1,4 @@
-package com.forloop.androidchallenge.ui.theme
+package com.forloop.androidchallenge.presentation.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
