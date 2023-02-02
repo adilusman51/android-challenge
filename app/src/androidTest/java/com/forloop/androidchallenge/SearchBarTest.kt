@@ -1,12 +1,12 @@
-package com.forloop.codechallenge
+package com.forloop.androidchallenge
 
 import androidx.activity.ComponentActivity
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.ui.test.*
 import androidx.compose.ui.test.junit4.createAndroidComposeRule
 import androidx.compose.ui.text.input.TextFieldValue
-import com.forloop.codechallenge.presentation.component.SearchBar
-import com.forloop.codechallenge.presentation.theme.CodeChallengeTheme
+import com.forloop.androidchallenge.presentation.component.SearchBar
+import com.forloop.androidchallenge.presentation.theme.CodeChallengeTheme
 import org.junit.Before
 import org.junit.Rule
 import org.junit.Test
