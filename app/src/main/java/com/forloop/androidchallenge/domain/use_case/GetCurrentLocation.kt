@@ -1,4 +1,4 @@
-package com.forloop.codechallenge.domain.use_case
+package com.forloop.androidchallenge.domain.use_case
 
 import android.location.Location
 import com.forloop.androidchallenge.domain.location.LocationTracker
